@@ -1,14 +1,14 @@
 Package: labdem.palette
-Title: What the Package Does (One Line, Title Case)
+Title: Paleta de colores Laboratorio de Métodos FLACSO México
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person("Marietha", "Pérez Arellano", , "marietha.perez@gmail.com", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-8200-5179"))
+Description: Este paquete proporciona la paleta de colores institucional del Laboratorio de Métodos (LabdeM) de la FLACSO México. Está diseñado para facilitar la creación de gráficos y visualizaciones consistentes con la identidad visual del laboratorio, especialmente en entornos académicos y de divulgación científica. Incluye funciones para acceder fácilmente a los colores y aplicarlos en herramientas como ggplot2.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-URL: https://github.com/una-marietha/labdem.palette
-BugReports: https://github.com/una-marietha/labdem.palette/issues
+URL: https://github.com/LabdeM/labdem.palette
+BugReports: https://github.com/LabdeM/labdem.palette/issues
